@@ -1,0 +1,12 @@
+ devices([
+   "iPhone 11"
+ ])
+
+ languages([
+   "en-US",
+   "ko"
+ ])
+
+project "./Korean Converter.xcodeproj"
+output_directory("./screenshots")
+clear_previous_screenshots true
