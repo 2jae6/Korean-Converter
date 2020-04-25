@@ -1,5 +1,5 @@
 # Project Name
- * Korean-Converter
+ * 갓종대왕 번역기
 
 # Project Information
 ### 소개
@@ -11,9 +11,10 @@
 ### 사용 방법
  * Xcode 에서 빌드하신 후 바로 사용하시면 됩니다.
 
-### 사용 언어 및 기술
+### 사용 언어 및 사용된 기술
   * Swift
-  * String 분해 및 
+  * String 분해 및 조합
+  
   
 
 ### 앱스토어 링크
