@@ -1,7 +1,7 @@
 # Project Name
  # 이름
  * 갓종대왕 번역기
- ![Github logo](/images/markdown_logo.jpg) 
+ ![Github logo](/얼굴샷.png) 
 Format: ![이미지 alt명](url 링크) 
 
 # Project Information
