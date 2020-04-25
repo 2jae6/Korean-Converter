@@ -1,7 +1,7 @@
 # Project Name
-* 갓종대왕 번역기 *
-* Korean-Converter *
-한국인만 알아볼 수 있는 한국어로 쉽게 변환해주는 어플리케이션입니다.
+*갓종대왕 번역기*
+*Korean-Converter*
+*한국인만 알아볼 수 있는 한국어*로 쉽게 변환해주는 어플리케이션입니다.
 
 # Project Information
 * 설치 *
