@@ -1,5 +1,5 @@
 # Project Name
- # 이름
+ ### 이름
  * 갓종대왕 번역기
  
  ![Github logo](/얼굴샷.png) 
