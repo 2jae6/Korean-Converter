@@ -9,8 +9,12 @@
  * Project를 다운받으시면 됩니다.
 
 ### 사용 방법
- * Xcode 에서 빌드하신 후 사용하시면 됩니다.
+ * Xcode 에서 빌드하신 후 바로 사용하시면 됩니다.
 
 ### 사용 언어 및 기술
   * Swift
-  * String
+  * String 분해 및 
+  
+
+### 앱스토어 링크
+ * [갓종대왕 번역기 App Store](https://appadvice.com/app/ea-b0-93-ec-a2-85-eb-8c-80-ec-99-95-eb-b2-88-ec-97-ad-ea-b8-b0/1501008868)
